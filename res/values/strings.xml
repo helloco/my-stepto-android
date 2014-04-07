@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Calculate</string>
+    <string name="action_settings">Settings</string>
+    <string name="textView1">欢迎来到计算器！</string>
+    <string name="textView2">乘以</string>
+	<string name="calculate">计算</string>
+    <string name="result">calculate</string>
+    <string name="about">关于</string>
+    <string name="exit">退出</string>
+</resources>
